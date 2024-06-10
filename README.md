@@ -24,5 +24,5 @@ This directory contains the analysis material for the ICPM paper entitled "Struc
 	[doi3: 10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe](https://doi.org/10.4121/uuid:ed445cdd-27d5-4d77-a1f7-59fe7360cfbe) ,
 	[doi4: 10.4121/uuid:679b11cf-47cd-459e-a6de-9ca614e25985](https://doi.org/10.4121/uuid:679b11cf-47cd-459e-a6de-9ca614e25985) ,
 	[doi5: 10.4121/uuid:b32c6fe5-f212-4286-9774-58dd53511cf8](https://doi.org/10.4121/uuid:b32c6fe5-f212-4286-9774-58dd53511cf8) ) 
-	- BPI2017: [doi: 10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b](https://doi.org/10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b) (due to large size not available in this repository)
+	- BPI2017: [doi: 10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b](https://doi.org/10.4121/uuid:5f3067df-f10b-45da-b98b-86ae4c7a310b) (due to size not contained in this repository)
 	- BPI 2019: BPI_Challenge_2019.zip ([doi:10.4121/uuid:d06aff4b-79f0-45e6-8ec8-e19730c248f1](https://doi.org/10.4121/uuid:d06aff4b-79f0-45e6-8ec8-e19730c248f1)
