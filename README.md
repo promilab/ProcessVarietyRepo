@@ -17,8 +17,7 @@ This directory contains the analysis material for the ICPM paper entitled "Struc
 	- Evaluation_PO2019.ipynb
 	
 - Data:
-	- WABO2014: Wabo_all.zip ( 
-	[doi:10.4121/uuid:c45dcbe9-557b-43ca-b6d0-10561e13dcb5](doi:10.4121/uuid:c45dcbe9-557b-43ca-b6d0-10561e13dcb5))
+	- WABO2014: Wabo_all.zip (doi:10.4121/uuid:c45dcbe9-557b-43ca-b6d0-10561e13dcb5)
 	- BPI 2015: BPIC15GroundTruth.zip (
 	[doi1: 10.4121/uuid:a0addfda-2044-4541-a450-fdcc9fe16d17](10.4121/uuid:a0addfda-2044-4541-a450-fdcc9fe16d17) ,  
 	[doi2: 10.4121/uuid:63a8435a-077d-4ece-97cd-2c76d394d99c](10.4121/uuid:63a8435a-077d-4ece-97cd-2c76d394d99c) ,
